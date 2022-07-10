@@ -1,5 +1,11 @@
 # Test Python × Poetry
 
+## Settings
+
+```sh
+$ poetry install
+```
+
 ## Run
 
 ### Test
